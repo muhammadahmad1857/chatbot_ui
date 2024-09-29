@@ -88,7 +88,7 @@ const ChatUI = ({ chat }: ChatProps) => {
               </div>
             )}
           </div>
-          <div className="min-w-full">
+          <div className="max-sm:min-w-full">
             <Input />
           </div>
         </div>
